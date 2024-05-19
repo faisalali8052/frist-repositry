@@ -1,2 +1,3 @@
 # frist-repositry
-first repositry
+first repository
+author M.Faisal
